@@ -73,7 +73,7 @@ For iPad and iPhone：
 -  iPad: Fixed a bug that could cause the loading screen to freeze when cancelling FITS file selection
 -  iPhone & iPad: Matrix visualization now supports panning and zooming
 
-##  Version 3.10  Features
+##  Version 3.1.10  Features
   Improved iPhone experience
 -  Added a Rotate button to quickly adjust image orientation on iPhone
 -  Added Opened Files history on iPhone — easily switch between previously opened files with a scrollable tab bar and highlighted current file
