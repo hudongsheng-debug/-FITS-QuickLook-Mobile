@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 3.1.10
+# FITS QuickLook Mobile Version 4.1.14
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -78,6 +78,40 @@ For iPad and iPhone：
 -  Added a Rotate button to quickly adjust image orientation on iPhone
 -  Added Opened Files history on iPhone — easily switch between previously opened files with a scrollable tab bar and highlighted current file
 -  Minor UI improvements and stability enhancements
+-  
+##  Version 4.1.14 Features (🚀🚀**A New Era for FITS QuickLook Mobile🚀🚀）
+
+- We’ve introduced more powerful features to the iPhone version of the app in this major update.
+
+- 1. Redesigned the main interface to unify the visual design across iPhone and iPad.
+
+- 2. Updated the app icon and introduced a Dark Mode variant.
+
+- 3. File import and Ready status are now available on the Lock Screen and Dynamic Island.
+
+- 4. Improved rendering performance when browsing multiple images on iPhone.
+
+- 5. Added star and close controls to tabs for multiple FITS files on iPhone.
+
+- 6. Added back navigation for tabs when multiple FITS files are open on iPhone.
+
+- 7. Tabs now support color highlighting: green for BinTable and blue for 2D FITS files.
+
+- 8. Closing a tab now returns to the previous FITS file view, with improved rendering speed.
+
+- 9. Expanded the Help documentation for the iPhone version.
+
+- 10. Added a Home button to the iPhone version for quick access to the main screen.
+
+- 11. Major UI improvements for iPhone, including redesigned layouts, added tips, and reorganized controls.
+
+- 12. Crosshair and Profile Panel features are now available on the iPhone version of the app.
+
+- 13. Added a new rotation feature on iPhone, allowing users to rotate images.
+
+- 14. Function buttons on iPhone and iPad are now organized in a collapsible Tools menu.
+
+
 
 ## Acknowledgements
 *Project* LAMOST，China
