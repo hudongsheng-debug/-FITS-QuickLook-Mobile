@@ -113,11 +113,11 @@ For iPad and iPhone：
 
 ##  Version 4.2.1 Features 
 - For iPhone  and iPad:
-- Added haptic feedback to buttons for clearer interaction feedback.
 - Added double-tap zoom to quickly inspect image details.
 
 - For iPhone only :
 - Improved the Help documentation on iPhone.
+- Added haptic feedback to buttons for clearer interaction feedback.
 
 
 ## Acknowledgements
