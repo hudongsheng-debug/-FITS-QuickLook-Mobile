@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 4.3.1
+# FITS QuickLook Mobile Version 4.3.13
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -131,6 +131,16 @@ For iPad and iPhone：
 -   On iPhone, when users open or close the Tools panel, the Display / Histogram at the bottom will automatically toggle accordingly.
 -  Introduced the Rotate feature on iPad, bringing feature parity between iPhone and iPad.
 -   Minor UI refinements and interaction polish for a smoother overall experience.
+
+
+## Version 4.3.13 Features
+- Added a launch screen animation for both iPhone and iPad
+- Introduced a quick onboarding guide for first-time users
+- Improved iPhone experience: Display and Histogram panels now auto-collapse when opening Tools
+- Added a dedicated “Quick Guide” access on iPad
+- Fixed an issue where some buttons lacked haptic feedback on iPhone
+- Improved overall performance and smoothnes
+
 
 
 
