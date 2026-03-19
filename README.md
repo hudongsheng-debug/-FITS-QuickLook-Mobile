@@ -119,7 +119,7 @@ For iPad and iPhone：
 - Improved the Help documentation on iPhone.
 - Added haptic feedback to buttons for clearer interaction feedback.
 
-## Version 4.2.2 
+## Version 4.2.2 Features
 -  Optimized the iPhone toolbar layout by switching from a vertical expansion to a horizontal scrolling design, improving usability in limited screen space.
 - Added explanations for Advanced panel features in Help, including Pin, Raw/Normal, Δ, CSV, and Clear, making them easier to understand and use.
 -  Refined visual appearance by adjusting toolbar background transparency and layering for a cleaner look over high-contrast images.
@@ -127,7 +127,7 @@ For iPad and iPhone：
 -  Logic improvement: enabling Advanced will now automatically activate Crosshair, ensuring a smoother analysis workflow.
 
 
-## Version 4.3.1
+## Version 4.3.1 Features
 -   On iPhone, when users open or close the Tools panel, the Display / Histogram at the bottom will automatically toggle accordingly.
 -  Introduced the Rotate feature on iPad, bringing feature parity between iPhone and iPad.
 -   Minor UI refinements and interaction polish for a smoother overall experience.
