@@ -79,7 +79,7 @@ For iPad and iPhone：
 -  Added Opened Files history on iPhone — easily switch between previously opened files with a scrollable tab bar and highlighted current file
 -  Minor UI improvements and stability enhancements
 -  
-##  Version 4.1.14 Features (🚀🚀**A New Era for FITS QuickLook Mobile🚀🚀）
+##  Version 4.1.14 Features (🚀🚀A New Era for FITS QuickLook Mobile🚀🚀）
 
 - We’ve introduced more powerful features to the iPhone version of the app in this major update.
 
