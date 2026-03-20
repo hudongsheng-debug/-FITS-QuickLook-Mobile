@@ -142,7 +142,7 @@ For iPad and iPhone：
 - Improved overall performance and smoothnes
 
 
-## Version 4.4.6 Features
+## Version 4.4.7 Features
 We’ve made several improvements to enhance usability and polish the experience:
 - Fixed animation issues in the Tools onboarding flow
 - Improved interaction with highlighted tabs on the main interface
