@@ -179,7 +179,8 @@ Meet the all-new Markup experience on iPad.
 
 ## Version 5.1.5 Features
 We recommend updating to the latest version.
-- This update focuses on fixing issues related to the Annotate (Markup) feature:Fixed an issue where Markup disappeared while Annotate mode was still active-
+- This update focuses on fixing issues related to the Annotate (Markup) feature:
+- Fixed an issue where Markup disappeared while Annotate mode was still active
 - Fixed an issue where tapping “Done” did not properly exit Annotate mode
 - Improved the show/hide animation of the Markup panel
 - Improved the export pop-up presentation
