@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 4.5.11
+# FITS QuickLook Mobile Version 5.1.2
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -166,6 +166,16 @@ We Enhanced iPad experience with improved interface design
 - Expanded Help documentation for easier onboarding
 - Added a new onboarding page (Step 7)
 - Increased maximum zoom level by 100× on both iPhone and iPad
+
+## Version 5.1.2 Features
+Meet the all-new Markup experience on iPad.
+- Added iPad Markup (Annotation) feature with Apple Pencil support
+- Added support for Apple Pencil Pro squeeze to quickly open Markup (iPadOS 17.5+)
+- Added draggable Markup panel with color and stroke width controls
+- Added new annotation tools: Pen, Eraser, Undo, and Clear
+- Fixed star icon color (now correctly displayed in yellow)
+- Improved selected tab visual clarity
+- Apple Pencil Pro squeeze requires iPadOS 17.5 or later; Markup is available on all supported versions via the Annotate button
 
 ## Acknowledgements
 *Project* LAMOST，China
