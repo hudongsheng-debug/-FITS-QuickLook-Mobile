@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.1.5
+# FITS QuickLook Mobile Version 5.1.5 (20th Update)
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
