@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.1.5 
+# FITS QuickLook Mobile Version 5.1.8
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -186,6 +186,12 @@ We recommend updating to the latest version.
 - Improved the show/hide animation of the Markup panel
 - Improved the export pop-up presentation
 - Fixed an issue where annotations persisted across different tabs
+
+## Version 5.1.8 Features 
+- Fixed an issue where Live Activity remained in the Ready state after all tabs were closed
+- Fixed an issue where UUID-based file names could appear on the Dynamic Island / Lock Screen when using multiple tabs
+- Fixed an issue where Matrix files could remain stuck in the Opening state on the Dynamic Island / Lock Screen
+- Improved visual details on the second page of the iPhone onboarding screen
 
 ## Acknowledgements
 *Project* LAMOST，China
