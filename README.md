@@ -196,7 +196,7 @@ We recommend updating to the latest version.
 ## Acknowledgements
 *Project* LAMOST，China
 
-Weimin Sun  Haiping Chen
+Weimin Sun &  Haiping Chen
 
 ## Support
 If you need help, please contact:
