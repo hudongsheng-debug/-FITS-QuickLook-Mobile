@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.1.8
+# FITS QuickLook Mobile Version 5.2.6
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -192,6 +192,16 @@ We recommend updating to the latest version.
 - Fixed an issue where UUID-based file names could appear on the Dynamic Island / Lock Screen when using multiple tabs
 - Fixed an issue where Matrix files could remain stuck in the Opening state on the Dynamic Island / Lock Screen
 - Improved visual details on the second page of the iPhone onboarding screen
+
+## Version 5.2.6 Features 
+This update marks an important step in bringing our research in spectral analysis into practical use, translating theoretical methods into accessible tools on mobile devices. This is only our first step, and the AI features are still in an early stage. If you encounter any issues or limitations, your feedback is highly appreciated as we continue to improve and refine the app.😊
+
+- iPad: Histogram and Display panels now automatically collapse when tools are activated
+- iPad: Added scrollable tools bar for improved usability
+- iPhone & iPad: Tools entry upgraded to Tools & AI
+- Introduced on-device AI-based spectral noise image classification (Beta, early-stage implementation)
+- Updated app icon, Dynamic Island visuals, and Lock Screen appearance
+- Improved onboarding experience and added AI feature documentation
 
 ## Acknowledgements
 *Project* LAMOST，China
