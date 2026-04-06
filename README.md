@@ -208,6 +208,10 @@ This update marks an important step in bringing our research in spectral analysi
 - Added Simplified Chinese support with full localization across the app
 - Fixed an issue where the “Show All / Collapse” toggle in the noise analysis module was not synchronized with its animation state
 - Improved overall performance and smoothness
+- 新增简体中文支持，应用已实现完整本地化
+- 修复噪声分析模块中“显示全部 / 收起”切换时动画与状态不同步的问题
+-  优化整体性能与流畅度
+
 
 
 ## Acknowledgements
