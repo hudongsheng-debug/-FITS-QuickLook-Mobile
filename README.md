@@ -194,7 +194,7 @@ We recommend updating to the latest version.
 - Fixed an issue where Matrix files could remain stuck in the Opening state on the Dynamic Island / Lock Screen
 - Improved visual details on the second page of the iPhone onboarding screen
 
-## Version 5.2.6 Features 
+## Version 5.2.6 Features ("Hello,Futrue")
 This update marks an important step in bringing our research in spectral analysis into practical use, translating theoretical methods into accessible tools on mobile devices. This is only our first step, and the AI features are still in an early stage. If you encounter any issues or limitations, your feedback is highly appreciated as we continue to improve and refine the app.😊
 
 - iPad: Histogram and Display panels now automatically collapse when tools are activated
@@ -212,7 +212,7 @@ This update marks an important step in bringing our research in spectral analysi
 - 修复噪声分析模块中“显示全部 / 收起”切换时动画与状态不同步的问题
 -  优化整体性能与流畅度
 
-## Version 5.2.11 Features
+## Version 5.2.11 Features (A big step for FITS QuickLook on iPad)
 
 This version introduces a brand-new Compare feature for Workspace mode on iPad:
 - Added Sync view for linked navigation between two FITS images
