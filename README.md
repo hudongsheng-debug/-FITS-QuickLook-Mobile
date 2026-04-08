@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.2.11
+# FITS QuickLook Mobile Version 5.2.13
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -205,15 +205,11 @@ This update marks an important step in bringing our research in spectral analysi
 - Improved onboarding experience and added AI feature documentation
 
 ## Version 5.2.7 Features
-- Added Simplified Chinese support with full localization across the app
+- Added Simplified Chinese support with full localization across the app 🇨🇳
 - Fixed an issue where the “Show All / Collapse” toggle in the noise analysis module was not synchronized with its animation state
 - Improved overall performance and smoothness
-- 新增简体中文支持，应用已实现完整本地化
-- 修复噪声分析模块中“显示全部 / 收起”切换时动画与状态不同步的问题
--  优化整体性能与流畅度
 
-## Version 5.2.11 Features (A big step for FITS QuickLook on iPad)
-
+## Version 5.2.11 Features (A big step for FITS QuickLook on iPad) 🇩🇪
 This version introduces a brand-new Compare feature for Workspace mode on iPad:
 - Added Sync view for linked navigation between two FITS images
 -	Added Diff view to quickly highlight subtle differences
@@ -221,23 +217,16 @@ This version introduces a brand-new Compare feature for Workspace mode on iPad:
 - Added Color options for more flexible visual analysis
 - Improved comparison experience and interactions
 -	Added German localization support
-  
-本版本为 iPad 的 Workspace 模式带来全新的对比功能：
--	新增 Sync 同步查看，支持两张 FITS 图像联动浏览
--	新增 Diff 差分显示，快速突出图像之间的细节差异
--	新增 Reset 复位功能，一键恢复对比视图状态
--	新增 Color 颜色切换，提升对比分析的灵活性
--	优化对比体验与交互细节
--	新增德语本地化支持
 
-Diese Version bringt eine neue Vergleichsfunktion für den Workspace-Modus auf dem iPad:
--	Synchronisierte Ansicht (Sync) für gekoppelte Navigation zwischen zwei FITS-Bildern
--	Differenzansicht (Diff) zur schnellen Hervorhebung von Unterschieden
--	Reset-Funktion zum sofortigen Zurücksetzen der Vergleichsansicht
--	Farboptionen für eine flexiblere visuelle Analyse
--	Verbesserte Vergleichserfahrung und Interaktionen
--	Unterstützung für die deutsche Lokalisierung hinzugefügt
-
+## Version 5.2.13 Features 🇯🇵 🇪🇸 🇳🇱 🇫🇷 🇮🇹
+This update focuses on expanding language support and improving the Compare experience:
+- Added a Swap button in Compare mode
+- Added French support
+- Added Japanese support
+- Added German support
+- Added Italian support
+- Added Dutch support
+- Added Spanish support
 
 
 ## Acknowledgements
