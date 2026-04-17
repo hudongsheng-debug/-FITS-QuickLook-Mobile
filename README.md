@@ -29,7 +29,8 @@ For iPhone and iPad ：
 - Improved axis display and coordinate interaction experience
 - Fixed some performance smoothness issues
 
-## Version 2.1.2 Features ✅Experience our biggest update ever.
+## Version 2.1.2 Features 
+### Experience our biggest update ever.
 For iPad ：
 - 1.Added crosshair functionality
 - 2.Added a movable Profile panel
@@ -46,7 +47,8 @@ For iPad ：
 
 ⚠️ iPhone: Due to device size limitations, the new features are not supported at this time
 
-## Version 2.2.1 Features ✅Beyond unprecedented.
+## Version 2.2.1 Features 
+### Beyond unprecedented.
 For iPad and iPhone：
 
 - Added version information display
@@ -81,7 +83,8 @@ For iPad and iPhone：
 -  Added Opened Files history on iPhone — easily switch between previously opened files with a scrollable tab bar and highlighted current file
 -  Minor UI improvements and stability enhancements
 -  
-##  Version 4.1.14 Features (🚀🚀A New Era for FITS QuickLook Mobile🚀🚀）
+##  Version 4.1.14 Features 
+### A New Era for FITS QuickLook Mobile.
 
 - We’ve introduced more powerful features to the iPhone version of the app in this major update.
 
@@ -194,7 +197,8 @@ We recommend updating to the latest version.
 - Fixed an issue where Matrix files could remain stuck in the Opening state on the Dynamic Island / Lock Screen
 - Improved visual details on the second page of the iPhone onboarding screen
 
-## Version 5.2.6 Features ("Hello,Futrue")
+## Version 5.2.6 Features 
+### "Hello,Futrue."
 This update marks an important step in bringing our research in spectral analysis into practical use, translating theoretical methods into accessible tools on mobile devices. This is only our first step, and the AI features are still in an early stage. If you encounter any issues or limitations, your feedback is highly appreciated as we continue to improve and refine the app.😊
 
 - iPad: Histogram and Display panels now automatically collapse when tools are activated
@@ -209,7 +213,8 @@ This update marks an important step in bringing our research in spectral analysi
 - Fixed an issue where the “Show All / Collapse” toggle in the noise analysis module was not synchronized with its animation state
 - Improved overall performance and smoothness
 
-## Version 5.2.11 Features (A big step for FITS QuickLook on iPad) 🇩🇪
+## Version 5.2.11 Features 🇩🇪
+### A big step for FITS QuickLook on iPad. 
 This version introduces a brand-new Compare feature for Workspace mode on iPad:
 - Added Sync view for linked navigation between two FITS images
 -	Added Diff view to quickly highlight subtle differences
@@ -231,7 +236,6 @@ This update focuses on expanding language support and improving the Compare expe
   
 ## Version 5.3.5 Features 
 ### Over to AI.
-
 This update introduces local noise pixel detection (Beta 1).
 - Detect noise pixels directly on your device
 - Visualize and mark noise pixel positions
