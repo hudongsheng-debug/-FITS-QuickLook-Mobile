@@ -230,6 +230,7 @@ This update focuses on expanding language support and improving the Compare expe
 
   
 ## Version 5.3.5 Features 
+Over to AI.
 This update introduces local noise pixel detection (Beta 1).
 - Detect noise pixels directly on your device
 - Visualize and mark noise pixel positions
