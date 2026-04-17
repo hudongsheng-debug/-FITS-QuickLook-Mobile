@@ -198,7 +198,7 @@ We recommend updating to the latest version.
 - Improved visual details on the second page of the iPhone onboarding screen
 
 ## Version 5.2.6 Features 
-### "Hello,Futrue."
+### "Hello,future."
 This update marks an important step in bringing our research in spectral analysis into practical use, translating theoretical methods into accessible tools on mobile devices. This is only our first step, and the AI features are still in an early stage. If you encounter any issues or limitations, your feedback is highly appreciated as we continue to improve and refine the app.😊
 
 - iPad: Histogram and Display panels now automatically collapse when tools are activated
