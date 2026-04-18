@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.3.5
+# FITS QuickLook Mobile Version 5.3.6
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -242,6 +242,13 @@ This update introduces local noise pixel detection (Beta 1).
 - Preview local regions to quickly locate noise distribution
 - Improved performance for large images (partial loading)
 - Ongoing improvements to detection quality and stability
+
+## Version 5.3.6 Features
+### Easy to fall for.
+
+Improved noise analysis. More clarity, more control.
+- Adjustable noise threshold for more precise detection
+- Color-coded noise pixels by confidence for clearer visualization
 
 
 ## Acknowledgements
