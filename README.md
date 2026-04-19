@@ -60,7 +60,7 @@ For iPad and iPhone：
 ##  Version 2.2.2  Features
 For iPad and iPhone：
 - Lowered the minimum iOS system requirement from iOS 17.6 to iOS 17.0
-- Updated the app icon**
+- Updated the app icon
 - Fixed an issue where FITS files exported from the macOS version could not be opened on iOS
 (added support for additional FITS file formats)
 
@@ -172,7 +172,7 @@ We Enhanced iPad experience with improved interface design
 - Increased maximum zoom level by 100× on both iPhone and iPad
 
 ## Version 5.1.2 Features
-Meet the all-new Markup experience on iPad.
+### Meet the all-new Markup experience on iPad.
 - Added iPad Markup (Annotation) feature with Apple Pencil support
 - Added support for Apple Pencil Pro squeeze to quickly open Markup (iPadOS 17.5+)
 - Added draggable Markup panel with color and stroke width controls
