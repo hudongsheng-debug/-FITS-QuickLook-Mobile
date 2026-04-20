@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.4.4
+# FITS QuickLook Mobile Version 5.4.5
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -208,8 +208,8 @@ This update marks an important step in bringing our research in spectral analysi
 - Updated app icon, Dynamic Island visuals, and Lock Screen appearance
 - Improved onboarding experience and added AI feature documentation
 
-## Version 5.2.7 Features
-- Added Simplified Chinese support with full localization across the app 🇨🇳
+## Version 5.2.7 Features 🇨🇳
+- Added Simplified Chinese support with full localization across the app 
 - Fixed an issue where the “Show All / Collapse” toggle in the noise analysis module was not synchronized with its animation state
 - Improved overall performance and smoothness
 
@@ -266,6 +266,10 @@ Bug Fixes:
 - Fixed incorrect text color in some noise panels
 - Fixed reset button not being disabled when minimized panels are active
 
+
+## Version 5.4.5 Features
+-  Fixed some issues in Chinese localization
+-  Comparison panel now supports minimization
 
 
 
