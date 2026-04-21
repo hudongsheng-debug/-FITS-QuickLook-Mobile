@@ -182,7 +182,7 @@ We Enhanced iPad experience with improved interface design
 - Apple Pencil Pro squeeze requires iPadOS 17.5 or later; Markup is available on all supported versions via the Annotate button
 
 ## Version 5.1.5 Features 
-😊(20th Update)
+### 20th Updates.😊
 We recommend updating to the latest version.
 - This update focuses on fixing issues related to the Annotate (Markup) feature:
 - Fixed an issue where Markup disappeared while Annotate mode was still active
