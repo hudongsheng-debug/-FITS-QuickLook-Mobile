@@ -88,33 +88,33 @@ For iPad and iPhone：
 
 - We’ve introduced more powerful features to the iPhone version of the app in this major update.
 
-- 1. Redesigned the main interface to unify the visual design across iPhone and iPad.
+- Redesigned the main interface to unify the visual design across iPhone and iPad.
 
-- 2. Updated the app icon and introduced a Dark Mode variant.
+- Updated the app icon and introduced a Dark Mode variant.
 
-- 3. File import and Ready status are now available on the Lock Screen and Dynamic Island.
+- File import and Ready status are now available on the Lock Screen and Dynamic Island.
 
-- 4. Improved rendering performance when browsing multiple images on iPhone.
+- Improved rendering performance when browsing multiple images on iPhone.
 
-- 5. Added star and close controls to tabs for multiple FITS files on iPhone.
+- Added star and close controls to tabs for multiple FITS files on iPhone.
 
-- 6. Added back navigation for tabs when multiple FITS files are open on iPhone.
+- Added back navigation for tabs when multiple FITS files are open on iPhone.
 
-- 7. Tabs now support color highlighting: green for BinTable and blue for 2D FITS files.
+- Tabs now support color highlighting: green for BinTable and blue for 2D FITS files.
 
-- 8. Closing a tab now returns to the previous FITS file view, with improved rendering speed.
+- Closing a tab now returns to the previous FITS file view, with improved rendering speed.
 
-- 9. Expanded the Help documentation for the iPhone version.
+- Expanded the Help documentation for the iPhone version.
 
-- 10. Added a Home button to the iPhone version for quick access to the main screen.
+- Added a Home button to the iPhone version for quick access to the main screen.
 
-- 11. Major UI improvements for iPhone, including redesigned layouts, added tips, and reorganized controls.
+- Major UI improvements for iPhone, including redesigned layouts, added tips, and reorganized controls.
 
-- 12. Crosshair and Profile Panel features are now available on the iPhone version of the app.
+- Crosshair and Profile Panel features are now available on the iPhone version of the app.
 
-- 13. Added a new rotation feature on iPhone, allowing users to rotate images.
+- Added a new rotation feature on iPhone, allowing users to rotate images.
 
-- 14. Function buttons on iPhone and iPad are now organized in a collapsible Tools menu.
+- Function buttons on iPhone and iPad are now organized in a collapsible Tools menu.
 
 ##  Version 4.2.1 Features 
 - For iPhone  and iPad:
