@@ -283,7 +283,7 @@ To ensure a more consistent design, this minor update includes refinements:
 
 
 ## Acknowledgements
-*Project* LAMOST，China
+Project: LAMOST，China
 
 Weimin Sun &  Haiping Chen
 
