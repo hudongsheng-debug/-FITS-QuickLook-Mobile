@@ -289,8 +289,8 @@ To ensure a more consistent design, this minor update includes refinements:
 
 - Adjusted window sizes on iPhone and iPad to prevent text truncation in some languages
 
- ## Version 5.5.6 Features
- ### Final update for 5.x..
+ ## Version 5.5.6 Features 🇰🇷🇵🇹🇦🇪
+ ### Final update for 5.x.
 This version is the final update of the 5.x series.
 
 This update focuses on improving the UI experience of the "Help" and "Selection" features. Thank you for your support.
