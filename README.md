@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 5.5.6
+# FITS QuickLook Mobile Version 6.6.1
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -304,6 +304,17 @@ This update focuses on improving the UI experience of the "Help" and "Selection"
 - Added Arabic localization
 
 
+ ## Version 6.1.16 Features
+ ### Introducing Distortion Correction.
+This version introduces spectral distortion correction, designed for LAMOST and FASOT fiber spectroscopy.
+
+Special thanks to Prof. Sun for the support.
+- Keystone and Smile distortion correction now expanded from Mac to iPhone and iPad
+- Updated app icon
+- Updated Dynamic Island icon
+- Updated onboarding visuals
+- Help documentation now includes Keystone and Smile correction
+- Bug fixes and overall performance improvements
 
 
 
