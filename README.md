@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 6.1.22
+# FITS QuickLook Mobile Version 6.2.9
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -327,7 +327,11 @@ This is a quick hotfix release.
 We recommend all users update.
 We sincerely apologize. This update fixes an issue where file import was unavailable in iPad Workspace mode, and resolves a problem where tab titles were too long.
 
-
+## Version 6.2.9 Features
+### All New Desgin.
+- A redesigned home experience for iPhone and iPad, with a cleaner layout, a new starfield background, and refreshed app and Dynamic Island icons.
+- Improved BINTABLE support — FITS files with BINTABLE data can now be opened directly.
+- Enhanced Dark Mode with better contrast, improved readability, and fixes for transparency issues
 
 ## Acknowledgements
 Project: LAMOST，China
