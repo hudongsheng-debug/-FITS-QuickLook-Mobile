@@ -351,6 +351,7 @@ This update focuses on refining the interface and interaction design.
 - Fixed an issue in Workspace mode on iPad where the Histogram and Display panels at the bottom would not collapse
 - Fixed a bug where 2D FITS files could be opened in the BINTABLE panel
 - Added forward/back transition animations for tabs
+- The previous-generation app logo is back.
 
 
 
