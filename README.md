@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 6.2.14
+# FITS QuickLook Mobile Version 6.2.15
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -366,6 +366,14 @@ This update improves file import logic across different file types and enhances 
 - Top navigation buttons on iPhone now highlight (blue/green) based on available actions for the current file type  
 - Navigation buttons in iPad workspace mode now highlight (green) based on available actions  
 - Improved overall stability
+
+## Version 6.2.15 Features
+This update brings several fixes and improvements.
+
+- Added a reset button to the Range tool  
+- Fixed an extra spacing issue below the app name in Settings  
+- Fixed an issue where fast scrolling during file import could make the import button unresponsive  
+- Improved tab animations for smoother performance
 
 ## Acknowledgements
 Project: LAMOST，China
