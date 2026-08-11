@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 6.2.15
+# FITS QuickLook Mobile Version 7.0.0
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -374,6 +374,25 @@ This update brings several fixes and improvements.
 - Fixed an extra spacing issue below the app name in Settings  
 - Fixed an issue where fast scrolling during file import could make the import button unresponsive  
 - Improved tab animations for smoother performance
+
+## Version 7.0.0 Features
+FITS QuickLook Mobile 7.0 brings scientific AI, Matrix and BINTABLE tools, and a refined experience for iPhone and iPad.
+
+We recommend this update for all users. Version 7.0.0 is our biggest mobile upgrade yet.
+
+- New Science Assistant with Apple Intelligence and supported cloud AI providers.
+- New Matrix workspace with full-grid browsing, editing, ROI selection, plotting, Heatmap, Surface, and Contour views.
+- Redesigned BINTABLE workspace with improved column browsing, plotting, and vector-to-Matrix workflows.
+- New FFT, peak analysis, curve fitting, and scientific tools.
+- Added MAT-to-FITS and XLSX-to-FITS converters.
+- Redesigned interfaces for iPhone and iPad.
+- Added Live Activities, Dynamic Island, and Lock Screen progress updates.
+- Expanded localization across 11 languages.
+- Improved performance, stability, gestures, exports, and large FITS handling.
+
+FITS files remain on your device unless you explicitly authorize compact scientific context to be sent to a selected cloud AI provider.
+
+
 
 ## Acknowledgements
 Project: LAMOST，China
