@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 7.0.0
+# FITS QuickLook Mobile Version 7.1.2
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -392,7 +392,22 @@ We recommend this update for all users. Version 7.0.0 is our biggest mobile upgr
 
 FITS files remain on your device unless you explicitly authorize compact scientific context to be sent to a selected cloud AI provider.
 
+## Version 7.1.2 Features
+### The redesigned Row & Column Analysis workspace is here.
 
+Profile and Advanced have been completely redesigned and unified into the new **Row & Column Analysis** workspace.
+
+- Analyze individual rows and columns.
+- Display multiple row or column profiles together.
+- Analyze summed profiles across selected row or column ranges.
+- Highlight selected rows, columns, and summed ranges directly on the image.
+- Zoom, pan, and double-tap to reset the image preview.
+- Full-screen plots with zooming, cursor inspection, statistics, and CSV export.
+- Double-tap to enter precise row or column indices.
+- View and search the complete FITS Header.
+- Optimized interfaces for iPhone, iPad, and Light/Dark Mode.
+- Fixed issues with file tabs, Reset, Live Activities, and more.
+- Expanded localization and updated Help content.
 
 ## Acknowledgements
 Project: LAMOST，China
