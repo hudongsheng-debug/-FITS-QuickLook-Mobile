@@ -409,7 +409,7 @@ Profile and Advanced have been completely redesigned and unified into the new **
 - Fixed issues with file tabs, Reset, Live Activities, and more.
 - Expanded localization and updated Help content.
 
-## Version 7.2.1Features
+## Version 7.2.1 Features
 ### New tab management, live task status, and histogram controls are all here.
 
 • Fixed an issue where BINTABLE histograms could display incorrectly.
