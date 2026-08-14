@@ -412,25 +412,25 @@ Profile and Advanced have been completely redesigned and unified into the new **
 ## Version 7.1.3 Features
 ### New tab management, live task status, and histogram controls are all here.
 
-• Fixed an issue where BINTABLE histograms could display incorrectly.
-• Improved tab stability, with new long-press actions, options to close other or unstarred tabs, pinned starred tabs, and clearer file type and loading status.
-• Improved Live Activities for more accurate task status and smoother transitions between files.
-• Mean and Maximum indicator lines in Histogram can now be shown or hidden individually.
-• Improved localization and interface text across supported languages.
-• Additional stability and UI improvements.
+- Fixed an issue where BINTABLE histograms could display incorrectly.
+- Improved tab stability, with new long-press actions, options to close other or unstarred tabs, pinned starred tabs, and clearer file type and loading status.
+- Improved Live Activities for more accurate task status and smoother transitions between files.
+- Mean and Maximum indicator lines in Histogram can now be shown or hidden individually.
+- Improved localization and interface text across supported languages.
+- Additional stability and UI improvements.
 
 ## Version 7.2.1 Features
 ### A new HDU browsing experience, with multi-extension viewing and switching all in one place.
 
 For FITS files containing multiple HDUs:
 
-• Supports Primary HDU
-• Supports Image Extensions
-• Supports BINTABLE Extensions
-• Shows extension names and types
-• Shows the dimensions of each HDU
-• Tap to switch between HDUs
-• Provides clear information for HDUs that cannot be displayed  
+- Supports Primary HDU
+- Supports Image Extensions
+- Supports BINTABLE Extensions
+- Shows extension names and types
+- Shows the dimensions of each HDU
+- Tap to switch between HDUs
+- Provides clear information for HDUs that cannot be displayed  
 
 
 ## Acknowledgements
