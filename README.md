@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 7.2.1
+# FITS QuickLook Mobile Version 7.2.3
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -431,6 +431,22 @@ For FITS files containing multiple HDUs:
 - Shows the dimensions of each HDU
 - Tap to switch between HDUs
 - Provides clear information for HDUs that cannot be displayed  
+
+## Version 7.2.3 Features
+### Performance and energy efficiency, improved across the board.
+
+- Fixed an issue where header information could occasionally fail to appear or respond with a delay.
+- Improved overall responsiveness, performance, and power efficiency.
+- Enhanced Metal, GPU, and multi-core CPU processing for faster FITS and BINTABLE operations.
+- Accelerated histograms, percentile statistics, FFT, and vector normalization with Accelerate/vDSP.
+- Improved parallel processing for BINTABLE parsing and FITS data conversion and decoding.
+- Enhanced Metal-based GPU rendering for smoother stretch and colormap adjustments.
+- Reduced work on the main thread for a more responsive interface.
+- Automatically reduces nonessential processing in the background, at low battery levels, or under higher thermal conditions.
+- Added CPU fallback when Metal is unavailable.
+- Additional stability and performance improvements.
+
+
 
 
 ## Acknowledgements
