@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 7.3.1
+# FITS QuickLook Mobile Version 7.3.3
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -481,6 +481,17 @@ Refined translations and interface text for newly added features.
 To use Nearby Transfer, turn on Wi-Fi and Bluetooth and allow the app to access Local Network and Bluetooth. You do not need to be connected to a specific Wi-Fi network.
 
 iPad transfer support is coming soon.
+
+
+## Version 7.3.3 Features
+### Seamlessly connected. Keep your work flowing.
+
+- Added device-to-device transfer.
+- Transfer files and working states between iPhone and iPhone, iPhone and iPad, or iPad and iPad, allowing you to continue your analysis seamlessly across devices.
+- Redesigned the top toolbar on iPad for a better layout and improved workflow on the larger display.
+- Fixed incomplete localization and improved translated content.
+- Additional stability and experience improvements.
+
 
 ## Acknowledgements
 Project: LAMOST，China
