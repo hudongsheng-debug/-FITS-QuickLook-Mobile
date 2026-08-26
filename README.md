@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 8.1.2
+# FITS QuickLook Mobile Version 8.1.3
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -549,6 +549,14 @@ iPad transfer support is coming soon.
 - Enhanced the matrix analysis workflow for a smoother data processing experience.
 - Additional stability and interface improvements.  
 
+
+## Version 8.1.3 Features
+### Better. Stronger.
+
+
+- Fixed an issue where files could not be selected in Distortion Correction.
+- Fixed several localization issues.
+- Added file transfer between iOS and Mac.  
 
 
 ## Acknowledgements
