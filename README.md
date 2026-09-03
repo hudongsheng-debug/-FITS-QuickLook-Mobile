@@ -559,9 +559,8 @@ iPad transfer support is coming soon.
 
 
 ## Acknowledgements
-Project: LAMOST，China
 
-Weimin Sun &  Haiping Chen
+I want to thank myself for never giving up.
 
 ## Support
 If you need help, please contact:
